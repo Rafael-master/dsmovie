@@ -65,7 +65,7 @@ a, a:hover {
 
 
 .DSMovie-card{
-    width: 100px;
+    width: 250px;
 }
 
 .DSMovie-card img {
@@ -100,4 +100,9 @@ a, a:hover {
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+}
+
+.DSMovie-form-container {
+    padding: 40px, 0;
+    max-width: 480px;  
 }
